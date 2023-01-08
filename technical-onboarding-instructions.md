@@ -63,7 +63,7 @@ With the copy created locally, you’re all set to start working on your code an
 
 3. Under the Static Web Apps label, select the plus sign. 
 
-4. The command palette opens at the top of the editor and prompts you to select a subscription name. Select your subscription and press <Enter>. 
+4. The  palette opens at the top of the editor and prompts you to select a subscription name. Select your subscription and press <Enter>. 
 
 5. Next, name your application. Type SATechnicalOnboarding and press <Enter>. 
 
